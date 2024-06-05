@@ -103,8 +103,32 @@
 Из-за постоянной несогласованности инвентаризационного учёта, происходит переформирование документации.
 Необходимо произвести анализ и решить данную проблему.
 ```
-
 ![picture for analize VSM](https://github.com/STGorbunovDA/FlexibleMethodologies/blob/main/Lesson_4/source/Lean_1.png)
 
 ![picture for result VSM](https://github.com/STGorbunovDA/FlexibleMethodologies/blob/main/Lesson_4/source/Lean_2.png)
+
+﻿# Гибкие методологии (Agile, SCRUM, Канбан и другие) (семинары)
+
+
+![picture for FlexibleMethodologies](https://github.com/STGorbunovDA/FlexibleMethodologies/blob/main/Lesson_5/FlexibleMethodologies.png)
+
+## Урок 5. Kanban
+
+**Задание:**
+```
+Проанализируйте свой процесс обучения и продвижение по карьере в IT.
+Выделите задачи, которые стоят перед вами на месяц/квартал/год.
+Ранжируйте поставленные задачи по классам обслуживания, выберите цвета для Kanban-карточек.
+Определите WiP для управления потоком незавершённых задач.
+Добавьте задачи, которые вы определили, на личную Kanban-доску.
+```
+
+
+
+**Решение:**
+
+
+![picture for Kanban](https://github.com/STGorbunovDA/FlexibleMethodologies/blob/main/Lesson_5/source/Kanban.png)
+
+
 
